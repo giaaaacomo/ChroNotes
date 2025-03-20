@@ -24,6 +24,7 @@ ChroNotes/
     │   └── LEGEND.pdf
     └── Prototype/
         ├── FIGMA-High Fidelity
+        │   └── ChroNotes.fig
         └── 3D
 ```
 
