@@ -16,16 +16,15 @@ _/        _/    _/  _/        _/    _/  _/    _/_/  _/    _/    _/      _/      
 ChroNotes/
 ├── Introduction (readme.md)
 ├── LICENSE (CCBY4.0)
-│
-├── Contents/
-│   └── Flowcharts/
-│       ├── HAPP.pdf
-│       ├── PTAPP.pdf
-│       ├── PPLAT.pdf
-│       └── LEGEND.pdf
-└── Prototype/
-    ├── FIGMA-High Fidelity
-    └── 3D
+└── Contents/
+    ├── Flowcharts/
+    │   ├── HAPP.pdf
+    │   ├── PTAPP.pdf
+    │   ├── PPLAT.pdf
+    │   └── LEGEND.pdf
+    └── Prototype/
+        ├── FIGMA-High Fidelity
+        └── 3D
 ```
 
 ### OVERVIEW
