@@ -14,7 +14,7 @@ _/        _/    _/  _/        _/    _/  _/    _/_/  _/    _/    _/      _/      
 ## TABLE OF CONTENTS
 ```
 ChroNotes/
-├── Introduction (readme.md)
+├── readme.md (introduction)
 ├── LICENSE (CCBY4.0)
 └── Contents/
     ├── Flowcharts/
