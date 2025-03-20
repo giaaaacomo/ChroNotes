@@ -15,6 +15,8 @@ _/        _/    _/  _/        _/    _/  _/    _/_/  _/    _/    _/      _/      
 ```
 ChroNotes/
 ├── Introduction (readme.md)
+├── LICENSE (CCBY4.0)
+│
 ├── Contents/
 │   └── Flowcharts/
 │       ├── HAPP.pdf
