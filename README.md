@@ -18,13 +18,14 @@ ChroNotes/
 ├── LICENSE (CCBY4.0)
 └── Contents/
     ├── Flowcharts/
+    │   ├── Flowcharts.jam (interactive, full-size, not-stretched graphs)
     │   ├── HAPP.pdf
     │   ├── PTAPP.pdf
     │   ├── PPLAT.pdf
     │   └── LEGEND.pdf
     └── Prototype/
-        ├── FIGMA-High Fidelity
-        │   └── ChroNotes.fig
+        ├── FIGMA-High Fidelity (pending)
+        │   └── ChroNotes.fig (pending)
         └── 3D (pending)
 ```
 
