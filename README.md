@@ -24,7 +24,7 @@ ChroNotes/
     │   ├── PPLAT.pdf
     │   └── LEGEND.pdf
     └── Prototype/
-        ├── FIGMA-High Fidelity (pending)
+        ├── FIGMA-High Fidelity
         │   └── ChroNotes.fig (compressed to fit hosting file size)
         └── 3D (pending)
 ```
